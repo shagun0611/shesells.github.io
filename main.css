@@ -12,10 +12,10 @@
   background: #f0f2f5 !important;
 }
 .nav__btn button:hover i {
-  color: #fd0d85 !important;
+  color: #0d6efd !important;
 }
 .nav__btn-active i {
-  color: #fd0d85 !important;
+  color: #0d6efd !important;
 }
 .nav__btn-active {
   position: relative;
@@ -28,7 +28,7 @@
   transform: translate(0, 4.5px);
   width: 100%;
   height: 3px;
-  border-bottom: 3px solid #fd0d85 !important;
+  border-bottom: 3px solid #0d6efd !important;
 }
 /* dropdown */
 .dropdown-item:active {
@@ -36,25 +36,25 @@
 }
 /* chat box */
 .modal-content:hover .fa-phone-alt {
-  color: #fd0d85 !important;
+  color: #0d6efd !important;
 }
 .modal-content:hover .fa-video {
-  color: #fd0d85 !important;
+  color: #0d6efd !important;
 }
 .modal-content:hover .fa-file-image {
-  color: #fd0d85 !important;
+  color: #0d6efd !important;
 }
 .modal-content:hover .fa-plus-circle {
-  color: #fd0d85!important;
+  color: #0d6efd !important;
 }
 .modal-content:hover .fa-portrait {
-  color: #fd0d85 !important;
+  color: #0d6efd !important;
 }
 .modal-content:hover .fa-adjust {
-  color: #fd0d85 !important;
+  color: #0d6efd !important;
 }
 .modal-content:hover .fa-thumbs-up {
-  color: #fd0d85 !important;
+  color: #0d6efd !important;
 }
 /* edit */
 .edit-button {
